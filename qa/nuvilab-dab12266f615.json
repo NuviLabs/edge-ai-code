@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nuvilab",
+  "private_key_id": "dab12266f615b3b694d6ee53898fa701e9da4286",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFNKqd5GsuK8am\nYqcacqOGrXF3/JcbKiM5MYm52oU5XWVSJG2luvJXQHmm5TkigIB7pof2DyVwL6pL\nSbFPH0ly/1YqcVY3dhFfZaVEjBpmx9UQ7AY7+n7GhpBCyzCudK5HbS3c1ienT8D0\nLI9TMsZGohwQoQsq807iirczoL9N7ETzXZ1ZjSmQTBnLwzPkXgXMATHM9wErRunX\nWk0x/MW2Wx5HBWtDWZqJBMO7lZwfmfKYDTlv5YZBDyAia9j2JPshO7MWXIlzGEjM\nwqE9AlEMI3VJaw3Ii3k6ZgNdfbgRi1gfKoLo15iA5a+Zv434JnFtE3pZeMvIZoPW\nI92FPaXlAgMBAAECggEATUtKQF6iH9OqpdZu9q/OJmBe5A+Nzmjiq20eNUlQBF71\n8o8yps2yZL5xsBeSIFLLiSuJiMkA/IrCLYYxx/hUWo134WTQzSYqwwBdGZPsWTKj\n8WEBRIr3G6rsajGn4Aj9siM54Z/SpQJed5Xri0mQa2jopR/p96ir16FVExhDQy/S\nnOS7pWl7MXXBgaXcNafkvbTInRNx4e6B7IWZSGvYlk/fQgnUKcsHe5bjCnjNqPpu\nhPqsvETfUklj+/fLTpffWz0CKSbYSE+ZVsUBeuJDktv+X4GIKGLGKXUp9FCds7J2\n84odkFk8aCR9dZwVRBTrHucjxtLLr8YqhplhYYTktQKBgQDuEeuplvCaeMgoqlJ1\ngm+q6csfv3Eflkvjx4esQw+5og+0UIYwNQ2efl5Lee6emwOTPfL6ZSCr9KBDnH/Z\nsNPlrIET1QoM6dgq53liZTTm46BQwwkenhIa7v/Vonhop9FltRg0CWw0n/JYx05d\nz/q2NX0q80trUvswbI+30XuF4wKBgQDUDt4HjS6Ohj1XmS4IJY4jVh8+sUktikDM\nSbDdhvU/zUqSMnFBk9TByI0cEPB9PG6DUM1cQ2kPDDbUQfR+2nK4UkW+y98N7jLV\n3eNHjfIqS0dIpa1Z7xOeX9s6Cz4Oo9ZS8jzzv24iHlAjRCkGTCqptVtsaTD4L/Tv\nZ5Ye6o8vlwKBgQDcAF2KS/0ukt1NjxBCnXY6OHFIdm7ApPCenx4Gl7ZpcpUWqa9H\nz081n0vebeCQW2nzYLUwpdGKdra/pFkVv+4heceSnzX5dwQXqe8neaVolQPqfkHo\nNGVA1IpBTzH8bND6L18df3OqMgEP/6aw1Oi4BzgTP9/7XyTXvAsX8JM4xwKBgBom\nozbnMECfSV1OJKEYkIjHDB9dGZsmG4uV4tvO0tvFY1bYJaNiqbAkHVLCvAWVuEM1\nab3hCkmyxegzIgWqxs74RmWbGqzLHTXGoUqntJ+GnQnWdKRMmWzEgXKNBGAl0D52\nZRHiH6DRgCx5MV33cqNvHBEof8N7locXjSnO302NAoGAIEENxW0g6DrI5l4emC/E\nCM9Eo+GlkhSGKG3waKMrKpHSmL9AnGK3SYW9eBkUT6tG+c141J44E52HST5aU3UN\nS7SPrN3+zbzzjXIbqH+oS7RzUmkyVVPpwCLn/y+UnYTnJvxgnbVsghpWr7ER7Rb3\nmi98BQNaL1md9QOku5VtGgc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nuvilab-3d@nuvilab.iam.gserviceaccount.com",
+  "client_id": "111188474345162554593",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nuvilab-3d%40nuvilab.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,4 @@
+split_coco_difficult -> 덮밥 vs 덮밥 아닌 거 분류
+rename_categories -> 라벨 업데이트
+filter_sauce -> 특정 annotation 제거
+split_train_val -> train/val/test 분리
